@@ -1,0 +1,9 @@
+local sonido = script.Parent.Parent.Parent.Parent.SoundService.Audio
+local ProximityPrompt = script.Parent
+local sound = sonido
+local ID = "rbxassetid://6420314950" -- ID del sonido
+
+ProximityPrompt.Triggered:connect(function(Player)
+	sound.SoundId = ID
+end)
+
