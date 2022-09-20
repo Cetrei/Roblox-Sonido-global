@@ -8,7 +8,7 @@
 
 ______________________________________________________________________________________________________________
 
-Este script se coloca sobre un bloque con un proximitypart para emitir un sonido en el cliente de cada jugador, viene con un ejemplo de terremeto
+Este script se coloca sobre un bloque con un ProximityPrompt para emitir un sonido en el cliente de cada jugador, viene con un ejemplo de terremeto
 
 --  Instalación
 * Modelo: https://www.roblox.com/library/10963689031/Sonido-global-Cetrei
